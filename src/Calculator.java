@@ -10,7 +10,7 @@ public class Calculator extends JFrame implements ActionListener, KeyListener
     JPanel buttons = new JPanel(new GridLayout(4,5,2,2));
     Container contentPane = getContentPane();
 
-    JLabel lbl = new JLabel("Калькулятор Java");
+    JLabel lbl = new JLabel("Калькулятор");
     JTextArea text = new JTextArea(1, 32);
     Font font = new Font("Serif", Font.BOLD, 36);
     Color background = new Color(151, 197, 205);
