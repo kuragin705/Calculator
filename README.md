@@ -1,2 +1,3 @@
 # Calculator
-Basic calculator written in Java and using Swing library. 
+
+Basic calculator written in Java using Swing library.
